@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/proffus/static/css/main.2a631f7e.chunk.css",
+    "main.js": "/proffus/static/js/main.c302bf09.chunk.js",
+    "main.js.map": "/proffus/static/js/main.c302bf09.chunk.js.map",
+    "runtime-main.js": "/proffus/static/js/runtime-main.109b243f.js",
+    "runtime-main.js.map": "/proffus/static/js/runtime-main.109b243f.js.map",
+    "static/js/2.9a5db6d4.chunk.js": "/proffus/static/js/2.9a5db6d4.chunk.js",
+    "static/js/2.9a5db6d4.chunk.js.map": "/proffus/static/js/2.9a5db6d4.chunk.js.map",
+    "static/js/3.a325eeae.chunk.js": "/proffus/static/js/3.a325eeae.chunk.js",
+    "static/js/3.a325eeae.chunk.js.map": "/proffus/static/js/3.a325eeae.chunk.js.map",
+    "index.html": "/proffus/index.html",
+    "static/css/main.2a631f7e.chunk.css.map": "/proffus/static/css/main.2a631f7e.chunk.css.map",
+    "static/js/2.9a5db6d4.chunk.js.LICENSE.txt": "/proffus/static/js/2.9a5db6d4.chunk.js.LICENSE.txt",
+    "static/media/c0.d49c9078.png": "/proffus/static/media/c0.d49c9078.png",
+    "static/media/c1.c3a65abc.png": "/proffus/static/media/c1.c3a65abc.png",
+    "static/media/c2.c8dbdf73.png": "/proffus/static/media/c2.c8dbdf73.png",
+    "static/media/c3.d03d6003.png": "/proffus/static/media/c3.d03d6003.png",
+    "static/media/logo.6ce24c58.svg": "/proffus/static/media/logo.6ce24c58.svg",
+    "static/media/logo1.e7cfdcb9.png": "/proffus/static/media/logo1.e7cfdcb9.png",
+    "static/media/topic1.93db5493.jpg": "/proffus/static/media/topic1.93db5493.jpg",
+    "static/media/Topics.css": "/proffus/static/media/topic2.617c68ca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.109b243f.js",
+    "static/js/2.9a5db6d4.chunk.js",
+    "static/css/main.2a631f7e.chunk.css",
+    "static/js/main.c302bf09.chunk.js"
+  ]
+}
